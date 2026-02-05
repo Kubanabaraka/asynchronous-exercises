@@ -23,3 +23,12 @@ fetM()
   .catch((er) => {
     console.log(er);
   });
+/*
+  Feedback
+  // Dom events in asynchronous
+// Problems async
+// Reusing promise
+//xhr
+// Debouncing and throtering
+  
+  */
